@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/base64helper/static/css/main.478aee23.chunk.css",
+    "main.js": "/base64helper/static/js/main.739c9847.chunk.js",
+    "main.js.map": "/base64helper/static/js/main.739c9847.chunk.js.map",
+    "runtime-main.js": "/base64helper/static/js/runtime-main.0adb6813.js",
+    "runtime-main.js.map": "/base64helper/static/js/runtime-main.0adb6813.js.map",
+    "static/js/2.899d5f61.chunk.js": "/base64helper/static/js/2.899d5f61.chunk.js",
+    "static/js/2.899d5f61.chunk.js.map": "/base64helper/static/js/2.899d5f61.chunk.js.map",
+    "static/js/3.ea7b357e.chunk.js": "/base64helper/static/js/3.ea7b357e.chunk.js",
+    "static/js/3.ea7b357e.chunk.js.map": "/base64helper/static/js/3.ea7b357e.chunk.js.map",
+    "index.html": "/base64helper/index.html",
+    "static/css/main.478aee23.chunk.css.map": "/base64helper/static/css/main.478aee23.chunk.css.map",
+    "static/js/2.899d5f61.chunk.js.LICENSE.txt": "/base64helper/static/js/2.899d5f61.chunk.js.LICENSE.txt",
+    "static/media/logoColor.d2941b36.webp": "/base64helper/static/media/logoColor.d2941b36.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0adb6813.js",
+    "static/js/2.899d5f61.chunk.js",
+    "static/css/main.478aee23.chunk.css",
+    "static/js/main.739c9847.chunk.js"
+  ]
+}
